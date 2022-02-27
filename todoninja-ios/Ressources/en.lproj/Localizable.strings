@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  todoninja-ios
+
+  Created by Jonas Richard Richter on 27.02.22.
+  Copyright © 2022 Todoninja. All rights reserved.
+*/
+
+// MARK: - ListViewController
+
+"LIST_TITLE" = "Your tasks";
+"LIST_CREATE_TASK" = "Create task";
+
+// MARK: - CreateTaskViewController
+
+"CREATE_TASK_TITLE_PLACEHOLDER" = "Task Title";
